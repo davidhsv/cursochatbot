@@ -4,7 +4,9 @@ Repositório para o projeto do Grupo 8 do curso de chatbot.
 
 ## Abrir no Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidhsv/cursochatbot/blob/master/Curso_Chatbot_Grupo_8.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidhsv/cursochatbot/blob/master/Curso_Chatbot_Grupo_8.ipynb)
+
+![alt text](https://github.com/davidhsv/cursochatbot/blob/master/assets/colab.png?raw=true)
 
 ## Instalação
 
