@@ -5,6 +5,7 @@
 - bom dia
 - boa tarde
 - boa noite
+- raigaaa
 
 ## intent:despedir
 - tchau
